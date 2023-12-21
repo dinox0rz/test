@@ -1,0 +1,20 @@
+1
+Food Factory
+1
+1,4,7,10
+2
+Technical Factory
+2
+8,5,2
+3
+Literature Factory
+3
+6,3,9
+4
+Jim Beam
+5
+11,12
+5
+Alcoholic Beverages Factory
+12
+11,12

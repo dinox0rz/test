@@ -1,0 +1,21 @@
+1
+Food
+In this category you can find all items related to food.
+2
+Technical equipment
+In this category you can find all items from technical area.
+3
+Literature
+In this category you can find books, comics etc.
+4
+Alcohol
+Explore a wide selection of alcoholic beverages in this category.
+5
+Instrument
+Discover a diverse range of musical instruments in this category.
+6
+Home Appliances
+In this category, you can find a wide range of home appliances designed to make your daily life more convenient and efficient.
+7
+Sports Equipment
+Category of sporting goods and equipment.

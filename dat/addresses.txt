@@ -1,0 +1,80 @@
+1
+Rose Street
+10
+ZAGREB
+2
+Maple Avenue
+20
+SPLIT
+3
+Riverfront Drive
+30
+RIJEKA
+4
+Meadow Lane
+40
+OSIJEK
+5
+Sunrise Circle
+50
+ZAGREB
+6
+Pine Street
+15
+SPLIT
+7
+Lakeview Terrace
+25
+RIJEKA
+8
+Highland Avenue
+35
+OSIJEK
+9
+Cypress Road
+45
+ZAGREB
+10
+Hillcrest Drive
+5
+SPLIT
+11
+Valley Road
+15
+RIJEKA
+12
+Sycamore Lane
+25
+OSIJEK
+13
+Forest Drive
+35
+ZAGREB
+14
+Greenwood Avenue
+10
+SPLIT
+15
+Lakeside Drive
+20
+RIJEKA
+16
+Cherry Street
+30
+OSIJEK
+17
+Crescent Court
+40
+ZAGREB
+18
+Maplewood Drive
+5
+SPLIT
+19
+Sunnydale Avenue
+15
+RIJEKA
+20
+Grove Street
+25
+OSIJEK

@@ -1,0 +1,25 @@
+1
+Grocery Store
+https://www.grocerystore.com
+1
+1,4,7,10
+2
+Electronics MegaMart
+https://www.electronicsmegamart.com
+2
+8,5,2
+3
+Book Haven
+https://www.bookhaven.com
+3
+6,3,9
+4
+Roto
+https://webshop.rotodinamic.hr/
+4
+11,12
+5
+Happy Spirits
+www.happyspirits.com
+11
+11,12
