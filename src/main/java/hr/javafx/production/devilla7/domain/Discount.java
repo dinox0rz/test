@@ -12,6 +12,13 @@ public record Discount(Integer discountAmount) {
     }
 
     @Override
+    public String toString() {
+        return "Discount{" +
+                "discountAmount=" + discountAmount +
+                '}';
+    }
+
+    @Override
     public int hashCode() {
         return Objects.hash(discountAmount);
     }
